@@ -1,0 +1,15 @@
+Espressões Regulares
+^M => começa com M
+A$ => termina com A
+
+. qualquer caractere sempre acompanhado das demais ocorencias abaixo
+
++ => um ou mais 
+* => qualquer quantidade
+? => zero ou 1
+[A-a] => Lista
+[
+[^A-a] => Lista negada
+
+Exemplo 
+^[Mm].*R$

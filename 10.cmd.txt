@@ -1,0 +1,26 @@
+Manuais de comandos
+tldr ls
+tldr apt
+tldr ip
+ip rout
+apt
+Mostrar  informações sobre o pacote
+apt show inskape
+apt search inskape
+Listar diretório
+ls - exa -ls
+Informações sobre o disco
+df -h - ncdu - duf
+Consultar domminio
+nslookup - dig
+sudo apt install dnsutil
+Encontra arquivos
+find ./ -name *arc*
+fdfind arc 		
+sudo apt install fd-find
+Processos
+top 	htop	btop	bashtop
+cat batcat
+ip a | grep inet
+ip a | rg inet
+micro arq.txt

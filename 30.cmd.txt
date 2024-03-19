@@ -1,0 +1,37 @@
+ls --help
+tldr ls
+tldr dfn
+tldr ip
+ip route
+Apt
+Mostrar informações sobre algum pacote
+apt show inkscape
+apt search inskape
+Listar diretórios
+ls, exa -l
+Informações sobre o disco
+df -h 	ncdu	duf
+Consultar dominio
+nslookup	dig
+sudo apt install dnsutil
+Encontrar arquivos
+find ./ -name *arc*
+fdfind arc
+sudo apt install fd-find
+Processos 
+top		htop	btop	bashtop
+batcat nome_arquivo.txt
+
+ip a | grep inet 
+ip a | rg  inet
+
+Editores de texto
+micro arq.txt
+Versão de kernel
+uname -r
+
+lscpu
+lsusb
+lspci
+lsblk
+history
